@@ -6,3 +6,5 @@ nuevos temas de acuerdo a su nivel académico.
 
 El objetivo es generar la página y que sirva como plataforma de comunicación entre alumnos y nosotros (quiero incluir a más gente en el proyecto). En principio
 la plataforma tendŕa una ṕágina de inicio, una parte de registro e inicio de sesión, y otra página en donde podrán acceder a materiales y foros para discusión...
+
+(El proyecto se encuentra en master)
